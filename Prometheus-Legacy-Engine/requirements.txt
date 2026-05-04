@@ -1,0 +1,8 @@
+openclaw-sdk>=2.6.0
+mimo-ai>=4.0.0
+pydantic
+loguru
+networkx
+matplotlib
+numpy
+scipy
